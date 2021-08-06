@@ -2,6 +2,7 @@
 #include<stdlib.h>
 #include<iostream>
 #include<math.h>
+
 using namespace std;
  
 double det(int n, double mat[3][3])
