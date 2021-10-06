@@ -10,6 +10,7 @@ double det(int n, double mat[3][3])
 {
     double submat[3][3];
     float d;
+ 
     for (int c = 0; c < n; c++)
     {
         int subi = 0; //submatrix's i value
